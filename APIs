@@ -51,3 +51,23 @@ Types of API Architectures
 .binary data format 
 
 
+
+Types 
+.categorized according to their accessibility, usage, and purpose 
+
+.web - accessible via the internet using HTTP; widely used for web apps   - REST, GraphQL 
+.local - used within a local environment or OS  - Windows, .NET, TAPI
+.program - allow remote programs to appear local via Remote Procedure Calls  -  SOAP, XML-RPC
+.internal - used privately within an organization  -  internal microservices 
+.partner - shared with specific business partners  - Payment Gateway APIs
+.open (public) - available for general developer purpose 
+
+
+REST APIs
+.follow the constraints of REST architecture allowing interaction with RESTful web services 
+.defines a set of functions that clients use to access server data 
+    get - retrieve a record 
+    put - update a record
+    post - create a record 
+    delete - delete a record 
+
