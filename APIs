@@ -24,3 +24,30 @@ How they work:
     response - server processes and sends back the requested data 
     delivery - API returns servers response to the client 
 
+.this communication happens over the HTTP/s protocol, with additional security via headers, tokens, or cookies 
+
+
+Types of API Architectures
+.define how systems communicate and exchange data
+.they offer different levels of flexibility, performance, and structure based on application needs 
+
+1. REST - representational state transfer 
+.uses HTTP methods for communication - GET, POST, PUT, DELETE 
+.data format - JSON, XML
+
+
+2. SOAP - simple object access protocol 
+.requires XML based messaging for communication 
+.XML data format 
+
+
+3. GraphQL 
+.lets clients fetch only the data they need 
+.JSON data format 
+
+
+4. gRPC 
+.high performance framework for Protocol Buffers (Protobuf)
+.binary data format 
+
+
