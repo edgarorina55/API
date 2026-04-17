@@ -71,3 +71,42 @@ REST APIs
     post - create a record 
     delete - delete a record 
 
+
+API Integration
+.connects two or more systems so they can exchange data automatically 
+    e.g connecting my e-commerce store to a payment gateway 
+        syncing CRM software with a marketing platform 
+
+
+API Testing
+.ensures that APIs function as intended focusing on logic, performance, and security rather than UI 
+
+
+Types 
+.unit
+.integration
+.security
+.performance 
+.functional 
+
+
+Popular API Testing tools 
+.postman - manual and automated API testing 
+.soapUI - SOAP & REST testing 
+.jmeter - load and performance testing
+.apigee - enterprise API management 
+.vREST - automated regression testing 
+
+
+Restrictions of using APIs 
+.private APIs - internal use only 
+.partner APIs - shared with specific partners under agreement 
+.public - found in the market for own use when there's no own specific API access from some entity that owns private APIs 
+
+
+Disads 
+.high cost - developing and maintaining them requires expertise 
+.security risk - exposed endpoints can be vulnerable to attacks 
+.versioning challenges - managign updates without breaking compatibility 
+.dependency risk - relying on third-party APIs introduces failure points 
+
