@@ -6,5 +6,21 @@ APIs
     .power everyday features such as weather updates, payments, and e-commerce payments 
 
     take a request > send to server > retrieves the data > returns the response 
+.critical to building scalable, and connected systems 
+
 
 Need:
+.reusability - avoid reinventing the wheel by leveraging existing APIs
+.efficiency - save development time by integrating ready made functionalities 
+.scalability - enable modular, distributed systems that can grow easily
+.integration - connect multiple platforms web, mobile, IoT, or analytics 
+.automation - allow machines to talk to machines without manual input
+
+
+How they work:
+.operate through a request response cycle between a client and server 
+request - clients sends a request to an API endpoint (URI)
+processing - API forwards the request to the server 
+response - server processes and sends back the requested data 
+delivery - API returns servers response to the client 
+
