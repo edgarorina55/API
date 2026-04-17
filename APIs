@@ -1,4 +1,10 @@
 APIs
 
 .application programming interface
-.
+.enable communication and efficient data sharing between applications and systems
+    .enable seamless interaction between applications, platforms, and services
+    .power everyday features such as weather updates, payments, and e-commerce payments 
+
+    take a request > send to server > retrieves the data > returns the response 
+
+Need:
