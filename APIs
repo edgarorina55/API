@@ -19,8 +19,8 @@ Need:
 
 How they work:
 .operate through a request response cycle between a client and server 
-request - clients sends a request to an API endpoint (URI)
-processing - API forwards the request to the server 
-response - server processes and sends back the requested data 
-delivery - API returns servers response to the client 
+    request - clients sends a request to an API endpoint (URI)
+    processing - API forwards the request to the server 
+    response - server processes and sends back the requested data 
+    delivery - API returns servers response to the client 
 
